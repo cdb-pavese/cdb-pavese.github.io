@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Foto"
+date:   2017-07-30 12:00:00 +0100
+author: Iwan Buetti
+---
+
+Qualche foto degli spazi della Casa dei Bambini, delle attività, dei materiali e di alcuni momenti.
+
+
+{% include poster.html img="/assets/img/anno_1/DSC_0725.jpg" caption="Il corridoio" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0726.jpg" caption="Un tavolo per gli amici" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0727.jpg" caption="Il corridoio" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0746b.jpg" caption="Si canta" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0782.jpg" caption="Chi vuole apparecchiare tavola, oggi?" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0796.jpg" caption="Chi fa cosa..." %}
+{% include poster.html img="/assets/img/anno_1/DSC_0814.jpg" caption="Ascolto o sfoglio?" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0815.jpg" caption="Costumi per giocare" %}
+{% include poster.html img="/assets/img/anno_1/DSC_0819.jpg" caption="Qualche materiale" %}
+{% include poster.html img="/assets/img/anno_1/IMG_7375.jpg" caption="Appendini" %}
+{% include poster.html img="/assets/img/anno_1/IMG_8582.jpg" caption="Esploro" %}
+{% include poster.html img="/assets/img/anno_1/IMG_8872.jpg" caption="Si pulisce" %}
+{% include poster.html img="/assets/img/anno_1/festa_1.jpg" caption="La festa di fine anno: saluti e ringraziamenti" %}
+{% include poster.html img="/assets/img/anno_1/festa_2.jpg" caption="La festa di fine anno: il gioco" %}

@@ -1,0 +1,28 @@
+title:              Casa dei Bambini Pavese
+email:              casadeibambinipavese@gmail.com
+description:        Un progetto di scuola parentale per bambini dai 3 ai 6 anni a Sommo, in provincia di Pavia
+author:             Iwan Buetti
+baseurl:            ""
+url:                "http://www.casadeibambinipavese.it"
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:  MontessoriAttivaPavia
+instagram_username: casadeibambinipavese
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-70835338-2 # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+timezone:           Europe/Rome
+paginate:           5
+paginate_path:      "/posts/page:num/"
+# languages:          ["it"]
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  # - jekyll-multiple-languages-plugin
