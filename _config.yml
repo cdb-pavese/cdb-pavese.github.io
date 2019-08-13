@@ -1,5 +1,6 @@
 title:              Casa dei Bambini Pavese
-email:              casadeibambinipavese@gmail.com
+# email:              casadeibambinipavese@gmail.com
+email:              casadeibambini@montessoriattiva-pavia.it
 description:        Un progetto di scuola parentale per bambini dai 3 ai 6 anni a Sommo, in provincia di Pavia
 author:             Iwan Buetti
 baseurl:            ""
